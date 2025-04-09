@@ -1,0 +1,9 @@
+[23:08:48.443][CONSTRUCT][CLIENT][INFO] Starting building internal Registries
+[23:08:49.365][CONSTRUCT][CLIENT][INFO] The following mods have explicit CraftTweaker support:
+'aquaculture' at version '1.16.5-2.1.23'
+'crafttweaker' at version '7.1.2.527'
+[23:08:50.545][CONSTRUCT][CLIENT][INFO] Completed building internal Registries
+[23:09:01.816][COMMON_SETUP][CLIENT][INFO] Started loading Scripts for Loader 'setupCommon'!
+[23:09:03.409][COMMON_SETUP][CLIENT][INFO] Finished loading Scripts!
+[23:09:26.224][DONE][CLIENT][INFO] Started loading Scripts for Loader 'crafttweaker'!
+[23:09:26.486][DONE][CLIENT][INFO] Finished loading Scripts!
