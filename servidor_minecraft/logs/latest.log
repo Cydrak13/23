@@ -342,3 +342,21 @@ java.lang.NullPointerException: null
 [09Apr2025 23:32:03.583] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cIDRAK[/127.233.131.201:44943] logged in with entity id 5612 at (-928.3029724486289, 65.11398369728828, 1089.4759257176083)
 [09Apr2025 23:32:03.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK joined the game
 [09Apr2025 23:32:30.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> -254 25
+[09Apr2025 23:33:36.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: YOAgod has reached the goal [Here They Come]
+[09Apr2025 23:33:46.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: YOAgod has made the advancement [Sweet Dreams]
+[09Apr2025 23:33:56.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Apr2025 23:33:56.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Apr2025 23:33:56.719] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Internal Exception: java.lang.StackOverflowError
+[09Apr2025 23:33:56.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[09Apr2025 23:33:56.765] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: YOAgod lost connection: Internal Exception: java.lang.StackOverflowError
+[09Apr2025 23:33:56.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: YOAgod left the game
+[09Apr2025 23:33:56.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Apr2025 23:33:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Apr2025 23:34:09.213] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Apr2025 23:34:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Apr2025 23:34:09.217] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Apr2025 23:34:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Apr2025 23:34:09.219] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Apr2025 23:34:09.309] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Apr2025 23:34:09.404] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Apr2025 23:34:09.405] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
