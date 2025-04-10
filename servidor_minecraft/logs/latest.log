@@ -306,3 +306,166 @@ java.lang.NullPointerException: null
 [10Apr2025 01:58:03.173] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
 [10Apr2025 01:58:03.174] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 27
 [10Apr2025 01:58:03.174] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/23/servidor_minecraft/./config/infernalmobs.cfg
+[10Apr2025 02:57:38.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6ba8e621
+[10Apr2025 02:57:38.853] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:54841] logged in with entity id 558 at (60.53051909758552, 67.0, 1584.4070732162807)
+[10Apr2025 02:57:38.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
+[10Apr2025 03:00:24.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@409ec0
+[10Apr2025 03:00:24.267] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tumbita08[/127.174.234.9:60223] logged in with entity id 1604 at (62.61042063768622, 67.0, 1582.591401049485)
+[10Apr2025 03:00:24.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 joined the game
+[10Apr2025 03:01:01.483] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tumbita08 lost connection: Disconnected
+[10Apr2025 03:01:01.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 left the game
+[10Apr2025 03:01:11.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@35ef60d6
+[10Apr2025 03:01:11.612] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tumbita08[/127.174.234.9:46375] logged in with entity id 1720 at (65.59790545292792, 68.0, 1591.426196995815)
+[10Apr2025 03:01:11.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 joined the game
+[10Apr2025 03:03:16.393] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:03:21.985] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:03:27.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:03:28.085] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:03:36.505] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (17, 7) should be (17, 8), CatEntity['Cat'/2565, l='ServerLevel[world]', x=278.03, y=84.00, z=127.94]
+[10Apr2025 03:03:54.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ has completed the challenge [Almost Unkillable]
+[10Apr2025 03:03:54.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:03:55.064] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:05:00.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:05:00.231] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:06:17.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:06:17.810] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:06:52.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:06:52.515] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:07:22.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:07:22.785] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:07:59.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:07:59.668] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:08:56.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:08:56.651] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:08:57.790] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10Apr2025 03:09:26.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:09:26.065] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:09:27.944] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10Apr2025 03:10:28.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:10:28.600] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:10:53.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:10:53.110] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:10:54.093] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionRotationPacket.func_148833_a(SourceFile:18) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10Apr2025 03:12:15.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was blown up by Creeper
+[10Apr2025 03:12:15.361] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:12:38.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:12:38.047] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:12:42.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:12:42.448] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:13:01.728] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
+[10Apr2025 03:13:01.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 03:13:03.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:13:03.104] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:13:11.316] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@312b5854
+[10Apr2025 03:13:11.334] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:57727] logged in with entity id 9131 at (-45.44479982845635, 67.0, 1642.1942399991017)
+[10Apr2025 03:13:11.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
+[10Apr2025 03:13:19.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:13:19.453] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:13:35.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:13:35.134] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:13:41.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:13:41.997] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:14:07.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:14:07.824] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:14:10.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:14:10.953] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:14:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:14:27.713] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:14:39.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:14:39.403] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:14:47.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:14:47.408] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:14:59.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:14:59.299] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:15:02.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:15:02.608] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:15:11.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:15:11.166] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:15:25.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:15:25.550] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:15:36.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:15:36.095] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:15:44.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:15:44.735] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: java.util.ConcurrentModificationException
+[10Apr2025 03:15:44.736] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$HashIterator.nextNode(HashMap.java:1511)
+[10Apr2025 03:15:44.736] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.HashMap$KeyIterator.next(HashMap.java:1534)
+[10Apr2025 03:15:44.737] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:361)
+[10Apr2025 03:15:44.737] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[10Apr2025 03:15:44.737] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[10Apr2025 03:15:44.737] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[10Apr2025 03:15:44.737] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.String.valueOf(String.java:2951)
+[10Apr2025 03:15:44.738] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.StringBuilder.append(StringBuilder.java:172)
+[10Apr2025 03:15:44.738] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at net.minecraft.nbt.CompoundNBT.toString(CompoundNBT.java:366)
+[10Apr2025 03:15:44.740] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.savePlayerData(CommandTBRecovery.java:176)
+[10Apr2025 03:15:44.740] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at ovh.corail.tombstone.command.CommandTBRecovery.lambda$savePlayer$9(CommandTBRecovery.java:166)
+[10Apr2025 03:15:44.740] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[10Apr2025 03:15:44.740] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[10Apr2025 03:15:44.741] [Tombstone Backup Thread/INFO] [STDERR/]: [ovh.corail.tombstone.command.CommandTBRecovery:savePlayerData:194]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[10Apr2025 03:15:44.761] [Server thread/INFO] [tombstone/]: The player Tumbita08 could not be saved
+[10Apr2025 03:15:56.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:15:56.484] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:16:16.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:16:16.649] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
