@@ -56,3 +56,8 @@
 [10Apr2025 01:24:55.809] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 has made the advancement [Rigged from the Start]
 [10Apr2025 01:25:05.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 has made the advancement [Best Friends Forever]
 [10Apr2025 01:25:05.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 has made the advancement [Big Iron]
+[10Apr2025 01:41:57.449] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
+[10Apr2025 01:41:57.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 01:42:05.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@62127d5a
+[10Apr2025 01:42:05.253] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:51567] logged in with entity id 24182 at (-593.4538495386043, 75.0, 1263.605248520353)
+[10Apr2025 01:42:05.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
