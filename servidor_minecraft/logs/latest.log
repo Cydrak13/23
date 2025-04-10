@@ -45,3 +45,6 @@
 [10Apr2025 00:37:12.369] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
 [10Apr2025 00:37:12.370] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
 [10Apr2025 00:37:12.373] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[10Apr2025 01:00:42.302] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1402, l='ServerLevel[world]', x=-805.64, y=57.00, z=1008.19] died, message: 'Villager was slain by Zombie'
+[10Apr2025 01:00:50.856] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1400, l='ServerLevel[world]', x=-798.68, y=61.82, z=1009.70] died, message: 'Villager was slain by Zombie'
+[10Apr2025 01:00:54.551] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/1403, l='ServerLevel[world]', x=-797.48, y=63.00, z=1007.66] died, message: 'Villager was slain by Zombie'
