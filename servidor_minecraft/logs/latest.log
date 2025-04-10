@@ -499,3 +499,15 @@ java.lang.NullPointerException: null
 [10Apr2025 03:35:07.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
 [10Apr2025 03:36:43.978] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
 [10Apr2025 03:36:43.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 03:44:37.747] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@553e7000
+[10Apr2025 03:44:37.763] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: KevinMathers[/127.44.58.244:40347] logged in with entity id 18775 at (-758.3132739475327, 31.0, 1465.1339301319929)
+[10Apr2025 03:44:37.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinMathers joined the game
+[10Apr2025 03:44:37.857] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@688c0dfc (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[10Apr2025 03:44:37.858] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@25dbb008 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[10Apr2025 03:44:43.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: KevinMathers suffocated in a wall
+[10Apr2025 03:44:43.255] [Server thread/INFO] [tombstone/]: The player KevinMathers has successfully been saved
+[10Apr2025 03:44:48.846] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@688c0dfc (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[10Apr2025 03:44:48.846] [Netty Epoll Server IO #3/ERROR] [net.minecraft.command.arguments.ArgumentTypes/]: Could not serialize com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument@25dbb008 (class com.infamous.dungeons_libraries.commands.arguments.MobEnchantmentArgument) - will not be sent to client!
+[10Apr2025 03:44:54.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinMathers: Teleported KevinMathers to -758.5, 31.5, 1465.5]
+[10Apr2025 03:45:38.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinMathers: Teleported KevinMathers to -760.5, 30.0, 1460.5]
+[10Apr2025 03:46:48.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [KevinMathers: Set own game mode to Creative Mode]
