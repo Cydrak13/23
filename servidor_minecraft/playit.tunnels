@@ -9,16 +9,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "times-tide.gl.joinmc.link",
-          "assigned_srv": "times-tide.gl.joinmc.link",
+          "assigned_domain": "orders-commissioners.gl.joinmc.link",
+          "assigned_srv": "orders-commissioners.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "5b94143f-61fd-4f67-a94e-97aec986a93f",
+          "id": "9b4ba27c-81b0-4ca4-a5ca-3f451bdfeac6",
           "ip_hostname": "27.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 25924,
-          "port_start": 25923,
+          "port_end": 25945,
+          "port_start": 25944,
           "region": "global",
           "static_ip4": "147.185.221.27",
           "static_ip6": "2602:fbaf:0:1::1b",
@@ -26,12 +26,12 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-04-09T23:03:48.303133Z",
+      "created_at": "2025-04-09T23:55:36.106484Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "ff50cd5a-c1d3-4ca0-8886-c394b3d823f1",
+      "id": "18f728ba-8f9e-4cad-9355-6cf9e999d976",
       "name": "Minecraft Java",
       "origin": {
         "data": {
@@ -50,40 +50,6 @@
         "packets_per_second": null
       },
       "region": "global",
-      "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "reason": "requires-premium"
-        },
-        "status": "disabled"
-      },
-      "created_at": "2025-04-09T23:04:41.223301Z",
-      "disabled_reason": "requires-premium",
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "443d4180-3e64-43a3-8aff-afc603d09d23",
-      "name": "Minecraft Java",
-      "origin": {
-        "data": {
-          "agent_id": "b66000ea-6b4c-4bd3-94d0-7c3a34325bf0",
-          "agent_name": "from-key-5922",
-          "local_ip": "127.0.0.1",
-          "local_port": 25565
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "tcp",
-      "proxy_protocol": null,
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "south-america",
       "tunnel_type": "minecraft-java"
     }
   ],
