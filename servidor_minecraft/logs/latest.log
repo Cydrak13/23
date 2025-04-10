@@ -18,3 +18,15 @@
 [10Apr2025 00:18:13.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> -376 23 210
 [10Apr2025 00:18:18.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> vente
 [10Apr2025 00:18:23.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> qued cerca
+[10Apr2025 00:22:10.316] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cIDRAK lost connection: Disconnected
+[10Apr2025 00:22:10.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK left the game
+[10Apr2025 00:22:12.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> vengan al canal de mc
+[10Apr2025 00:22:16.182] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@25aea75
+[10Apr2025 00:22:16.203] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cIDRAK[/127.44.216.146:45035] logged in with entity id 7634 at (-928.8282385860341, 64.0, 1088.4747385902629)
+[10Apr2025 00:22:16.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK joined the game
+[10Apr2025 00:22:20.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> de ds
+[10Apr2025 00:24:18.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> cydrack
+[10Apr2025 00:24:26.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JWolf_> llegate al canal de mc en ds
+[10Apr2025 00:24:58.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 has made the advancement [Who is Cutting Onions?]
+[10Apr2025 00:25:45.174] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cIDRAK lost connection: Disconnected
+[10Apr2025 00:25:45.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK left the game
