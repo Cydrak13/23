@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tame_tarantula_hawk": {
+    "criteria": {
+      "tame": "2025-04-10 01:25:05 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-04-07 03:43:14 +0000"
@@ -771,6 +777,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-04-10 01:04:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "interact": "2025-04-10 01:24:55 +0000"
     },
     "done": true
   },
@@ -1131,6 +1143,12 @@
   "create:recipes/create.base/crafting/kinetics/red_seat": {
     "criteria": {
       "has_wool": "2025-04-05 23:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-10 01:25:05 +0000"
     },
     "done": true
   },
