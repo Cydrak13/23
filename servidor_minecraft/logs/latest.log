@@ -484,3 +484,18 @@ java.lang.NullPointerException: null
 [10Apr2025 03:27:20.068] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@74352d11
 [10Apr2025 03:27:20.102] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:43327] logged in with entity id 16222 at (-31.622029885090008, 70.0, 1672.7856142377573)
 [10Apr2025 03:27:20.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
+[10Apr2025 03:28:12.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Zombie
+[10Apr2025 03:28:12.542] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:28:33.028] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tumbita08 lost connection: Disconnected
+[10Apr2025 03:28:33.029] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 left the game
+[10Apr2025 03:29:43.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ was slain by Wistiver
+[10Apr2025 03:29:43.169] [Server thread/INFO] [tombstone/]: The player JWolf_ has successfully been saved
+[10Apr2025 03:34:45.479] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ was kicked for floating too long!
+[10Apr2025 03:34:45.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Flying is not enabled on this server
+[10Apr2025 03:34:45.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 03:34:45.561] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[10Apr2025 03:35:07.201] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@24940dc8
+[10Apr2025 03:35:07.241] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:54851] logged in with entity id 18017 at (-90.58396671854025, 64.09814812391936, 1630.5458330355475)
+[10Apr2025 03:35:07.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
+[10Apr2025 03:36:43.978] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
+[10Apr2025 03:36:43.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
