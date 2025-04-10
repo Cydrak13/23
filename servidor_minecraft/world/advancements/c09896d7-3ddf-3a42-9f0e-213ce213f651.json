@@ -1557,6 +1557,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-10 03:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-05 21:35:21 +0000"

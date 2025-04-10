@@ -469,3 +469,18 @@ java.lang.NullPointerException: null
 [10Apr2025 03:15:56.484] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
 [10Apr2025 03:16:16.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
 [10Apr2025 03:16:16.649] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:20:23.033] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
+[10Apr2025 03:20:23.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 03:20:23.129] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Entity EntityFly['Fly'/12210, l='ServerLevel[world]', x=-0.02, y=70.00, z=1699.33] left loaded chunk area
+[10Apr2025 03:20:32.250] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1dac1e40
+[10Apr2025 03:20:32.264] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:45119] logged in with entity id 13577 at (65.90255355574595, 68.0, 1599.279287899486)
+[10Apr2025 03:20:32.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
+[10Apr2025 03:20:33.406] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Wrong location! (-1, 106) should be (0, 106), EntityFly['Fly'/13737, l='ServerLevel[world]', x=-0.02, y=70.00, z=1699.33]
+[10Apr2025 03:23:41.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tumbita08 was slain by Wistiver
+[10Apr2025 03:23:41.648] [Server thread/INFO] [tombstone/]: The player Tumbita08 has successfully been saved
+[10Apr2025 03:25:34.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ has reached the goal [To be or not to be]
+[10Apr2025 03:27:08.834] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: JWolf_ lost connection: Disconnected
+[10Apr2025 03:27:08.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ left the game
+[10Apr2025 03:27:20.068] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@74352d11
+[10Apr2025 03:27:20.102] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: JWolf_[/127.111.58.222:43327] logged in with entity id 16222 at (-31.622029885090008, 70.0, 1672.7856142377573)
+[10Apr2025 03:27:20.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JWolf_ joined the game
