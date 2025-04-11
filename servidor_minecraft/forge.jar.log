@@ -1,12 +1,12 @@
-JVM info: Microsoft - 21.0.6 - 21.0.6+7-LTS
+JVM info: Microsoft - 21.0.5 - 21.0.5+11-LTS
 java.net.preferIPv4Stack=true
-Current Time: 10/04/2025 17:18:00
-Host: files.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
-Host: libraries.minecraft.net [13.107.246.41]
-Host: launchermeta.mojang.com [13.107.246.41]
-Host: piston-meta.mojang.com [13.107.246.41]
-Host: sessionserver.mojang.com [13.107.246.41]
+Current Time: 05/04/2025 12:14:07
+Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: maven.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: libraries.minecraft.net [13.107.246.64]
+Host: launchermeta.mojang.com [13.107.246.64]
+Host: piston-meta.mojang.com [13.107.246.64]
+Host: sessionserver.mojang.com [13.107.246.64]
 Host: authserver.mojang.com [Unknown]
 Target Directory: .
 Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
@@ -17,23 +17,23 @@ Considering minecraft server jar
     Download completed: Checksum validated.
 Downloading libraries
 Found 0 additional library directories
-Considering library net.minecraftforge:forge:1.16.5-36.2.42
-  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42.jar
+Considering library net.minecraftforge:forge:1.16.5-36.2.34
+  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar
     Extraction completed: Checksum validated.
-Considering library org.ow2.asm:asm:9.6
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.6/asm-9.6.jar
+Considering library org.ow2.asm:asm:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.1/asm-9.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-commons:9.6
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.6/asm-commons-9.6.jar
+Considering library org.ow2.asm:asm-commons:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-tree:9.6
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.6/asm-tree-9.6.jar
+Considering library org.ow2.asm:asm-tree:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-util:9.6
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.6/asm-util-9.6.jar
+Considering library org.ow2.asm:asm-util:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-analysis:9.6
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.6/asm-analysis-9.6.jar
+Considering library org.ow2.asm:asm-analysis:9.1
+  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar
     Download completed: Checksum validated.
 Considering library cpw.mods:modlauncher:8.1.3
   Downloading library from https://maven.creeperhost.net/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar
@@ -140,8 +140,8 @@ Considering library de.oceanlabs.mcp:mcp_config:1.16.5-20210115.111550@zip
 Considering library de.siegmar:fastcsv:2.0.0
   Downloading library from https://maven.creeperhost.net/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
     Download completed: Checksum validated.
-Considering library net.md-5:SpecialSource:1.11.0
-  Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
+Considering library net.md-5:SpecialSource:1.10.0
+  Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.10.0/SpecialSource-1.10.0.jar
     Download completed: Checksum validated.
 Considering library net.md-5:SpecialSource:1.8.5
   Downloading library from https://maven.creeperhost.net/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar
@@ -149,17 +149,14 @@ Considering library net.md-5:SpecialSource:1.8.5
 Considering library net.minecraftforge:binarypatcher:1.0.12
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar
     Download completed: Checksum validated.
-Considering library net.minecraftforge:forge:1.16.5-36.2.42:universal
-  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-universal.jar
+Considering library net.minecraftforge:forge:1.16.5-36.2.34:universal
+  Extracting library from /maven/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar
     Extraction completed: Checksum validated.
-Considering library net.minecraftforge:installertools:1.3.0
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
+Considering library net.minecraftforge:installertools:1.2.6
+  Downloading library from https://maven.creeperhost.net/net/minecraftforge/installertools/1.2.6/installertools-1.2.6.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:jarsplitter:1.1.4
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
-    Download completed: Checksum validated.
-Considering library net.minecraftforge:srgutils:0.4.11
-  Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
     Download completed: Checksum validated.
 Considering library net.minecraftforge:srgutils:0.4.3
   Downloading library from https://maven.creeperhost.net/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
@@ -190,77 +187,73 @@ Considering library org.codehaus.mojo:animal-sniffer-annotations:1.14
 Considering library org.ow2.asm:asm-analysis:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-analysis:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-analysis:9.1
+  File exists: Checksum validated.
 Considering library org.ow2.asm:asm-commons:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-commons:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.1
+  File exists: Checksum validated.
 Considering library org.ow2.asm:asm-tree:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm-tree:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.1
+  File exists: Checksum validated.
 Considering library org.ow2.asm:asm:6.1.1
   Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
     Download completed: Checksum validated.
-Considering library org.ow2.asm:asm:9.3
-  Downloading library from https://maven.creeperhost.net/org/ow2/asm/asm/9.3/asm-9.3.jar
-    Download completed: Checksum validated.
+Considering library org.ow2.asm:asm:9.1
+  File exists: Checksum validated.
 Considering library trove:trove:1.0.2
   Downloading library from https://maven.creeperhost.net/trove/trove/1.0.2/trove-1.0.2.jar
     Download completed: Checksum validated.
-Created Temporary Directory: /tmp/forge_installer14922853926762835892
+Created Temporary Directory: /tmp/forge_installer16981078601308429510
   Extracting: /data/server.lzma
 Building Processors
 ===============================================================================
   MainClass: net.minecraftforge.installertools.ConsoleTool
   Classpath:
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.3.0/installertools-1.3.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.11.0/SpecialSource-1.11.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
-    /workspaces/23/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.11/srgutils-0.4.11.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm/9.3/asm-9.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
-    /workspaces/23/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
-    /workspaces/23/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
-  Args: --task, MCP_DATA, --input, /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip, --output, /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt, --key, mappings
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/installertools/1.2.6/installertools-1.2.6.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.10.0/SpecialSource-1.10.0.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/de/siegmar/fastcsv/2.0.0/fastcsv-2.0.0.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/opencsv/opencsv/4.4/opencsv-4.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm/9.1/asm-9.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/apache/commons/commons-text/1.3/commons-text-1.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar
+  Args: --task, MCP_DATA, --input, /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip, --output, /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt, --key, mappings
 Task: MCP_DATA
-Input:  /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip
-Output: /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
+Input:  /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550.zip
+Output: /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Key:    mappings
 Extracting: config/joined.tsrg
 ===============================================================================
   Cache: 
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Missing
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Missing
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Missing
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Missing
   MainClass: net.minecraftforge.jarsplitter.ConsoleTool
   Classpath:
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
-  Args: --input, /workspaces/23/servidor_minecraft/./minecraft_server.1.16.5.jar, --slim, /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --extra, /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar, --srg, /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/jarsplitter/1.1.4/jarsplitter-1.1.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/srgutils/0.4.3/srgutils-0.4.3.jar
+  Args: --input, /workspaces/Minecraft/servidor_minecraft/./minecraft_server.1.16.5.jar, --slim, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --extra, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar, --srg, /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Splitter: 
-  Input:    /workspaces/23/servidor_minecraft/./minecraft_server.1.16.5.jar
-  Slim:     /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar
+  Input:    /workspaces/Minecraft/servidor_minecraft/./minecraft_server.1.16.5.jar
+  Slim:     /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar
   Data:     null
-  Extra:    /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar
+  Extra:    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar
   Including data in extra
-  SRG:   /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
+  SRG:   /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
   InputSha: 1b557e7b033b583cd9f66746b7a9ab1ec1673ced
   SrgSha:   461d06f1f73f42783ef8fe3a3858eb5fad92a18c
 Splitting: 
@@ -25966,20 +25959,20 @@ Splitting:
   Extra org/apache/commons/codec/net/URLCodec.class
   Extra org/apache/commons/codec/net/Utils.class
   Data  io/netty/internal/
-  Output: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Checksum Validated: 2042be92779b25878580d9c3662756179a5dc55c
-  Output: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Checksum Validated: 48927cadca203a714dcc60ee80533c74e74d3a3f
+  Output: /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar Checksum Validated: 2042be92779b25878580d9c3662756179a5dc55c
+  Output: /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-extra.jar Checksum Validated: 48927cadca203a714dcc60ee80533c74e74d3a3f
 ===============================================================================
   MainClass: net.md_5.specialsource.SpecialSource
   Classpath:
-    /workspaces/23/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
-  Args: --in-jar, /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --out-jar, /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --srg-in, /workspaces/23/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-commons/6.1.1/asm-commons-6.1.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/guava/guava/20.0/guava-20.0.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/sf/opencsv/opencsv/2.3/opencsv-2.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-analysis/6.1.1/asm-analysis-6.1.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm-tree/6.1.1/asm-tree-6.1.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/ow2/asm/asm/6.1.1/asm-6.1.1.jar
+  Args: --in-jar, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-slim.jar, --out-jar, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --srg-in, /workspaces/Minecraft/servidor_minecraft/./libraries/de/oceanlabs/mcp/mcp_config/1.16.5-20210115.111550/mcp_config-1.16.5-20210115.111550-mappings.txt
 Loading mappings
 Loading mappings...  0%
 Loading mappings... 10%
@@ -26002,29 +25995,29 @@ Remapping jar... 90%
 Remapping jar... 100%
 ===============================================================================
   Cache: 
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar Missing
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-server.jar Missing
   MainClass: net.minecraftforge.binarypatcher.ConsoleTool
   Classpath:
-    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar
-    /workspaces/23/servidor_minecraft/./libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar
-    /workspaces/23/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar
-    /workspaces/23/servidor_minecraft/./libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
-    /workspaces/23/servidor_minecraft/./libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
-    /workspaces/23/servidor_minecraft/./libraries/trove/trove/1.0.2/trove-1.0.2.jar
-  Args: --clean, /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --output, /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar, --apply, /tmp/forge_installer14922853926762835892/data/server.lzma
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/binarypatcher/1.0.12/binarypatcher-1.0.12.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/guava/guava/25.1-jre/guava-25.1-jre.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/github/jponge/lzma-java/1.3/lzma-java-1.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/nothome/javaxdelta/2.0.1/javaxdelta-2.0.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/checkerframework/checker-qual/2.0.0/checker-qual-2.0.0.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar
+    /workspaces/Minecraft/servidor_minecraft/./libraries/trove/trove/1.0.2/trove-1.0.2.jar
+  Args: --clean, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar, --output, /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-server.jar, --apply, /tmp/forge_installer16981078601308429510/data/server.lzma
 Applying: 
-  Clean:     /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
-  Output:    /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar
+  Clean:     /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
+  Output:    /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-server.jar
   KeepData:  false
   Unpatched: false
-  Patches:   /tmp/forge_installer14922853926762835892/data/server.lzma
-Loading patches file: /tmp/forge_installer14922853926762835892/data/server.lzma
+  Patches:   /tmp/forge_installer16981078601308429510/data/server.lzma
+Loading patches file: /tmp/forge_installer16981078601308429510/data/server.lzma
   Reading patch com.mojang.blaze3d.platform.GlStateManager$1.binpatch
     Checksum: 0 Exists: false
   Reading patch com.mojang.blaze3d.platform.GlStateManager$AlphaState.binpatch
@@ -26346,10 +26339,6 @@ Loading patches file: /tmp/forge_installer14922853926762835892/data/server.lzma
   Reading patch net.minecraft.client.Minecraft.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.MouseHelper.binpatch
-    Checksum: 0 Exists: false
-  Reading patch net.minecraft.client.audio.ISound$AttenuationType.binpatch
-    Checksum: 0 Exists: false
-  Reading patch net.minecraft.client.audio.ISound.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.audio.SoundEngine.binpatch
     Checksum: 0 Exists: false
@@ -26760,6 +26749,8 @@ Loading patches file: /tmp/forge_installer14922853926762835892/data/server.lzma
   Reading patch net.minecraft.client.renderer.model.SimpleBakedModel$Builder.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.model.SimpleBakedModel.binpatch
+    Checksum: 0 Exists: false
+  Reading patch net.minecraft.client.renderer.model.UVTransformationUtil.binpatch
     Checksum: 0 Exists: false
   Reading patch net.minecraft.client.renderer.model.VariantList$Deserializer.binpatch
     Checksum: 0 Exists: false
@@ -28577,7 +28568,7 @@ Loading patches file: /tmp/forge_installer14922853926762835892/data/server.lzma
     Checksum: 11ca3f44 Exists: true
   Reading patch net.minecraft.world.storage.WorldSavedData.binpatch
     Checksum: f3fb0286 Exists: true
-Processing: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
+Processing: /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraft/server/1.16.5-20210115.111550/server-1.16.5-20210115.111550-srg.jar
   Patching net/minecraft/util/math/vector/Matrix3f 1/1
   Patching net/minecraft/world/server/ServerChunkProvider$1 1/1
   Patching net/minecraft/world/server/ServerChunkProvider$ChunkExecutor 1/1
@@ -29555,7 +29546,6 @@ Processing: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1
   Patching net/minecraft/client/gui/widget/list/KeyBindingList$KeyEntry$2 1/1
   Patching net/minecraft/client/gui/widget/list/KeyBindingList$KeyEntry$1 1/1
   Patching net/minecraft/client/renderer/color/ItemColors 1/1
-  Patching net/minecraft/client/audio/ISound$AttenuationType 1/1
   Patching net/minecraft/client/renderer/OverlayRenderer 1/1
   Patching net/minecraft/client/renderer/texture/TextureAtlasSprite$InterpolationData 1/1
   Patching net/minecraft/client/particle/ParticleManager$1 1/1
@@ -29597,6 +29587,7 @@ Processing: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1
   Patching com/mojang/blaze3d/platform/GlStateManager$StencilFunc 1/1
   Patching net/minecraft/client/renderer/entity/LivingRenderer 1/1
   Patching net/minecraft/client/renderer/texture/Stitcher$ISpriteLoader 1/1
+  Patching net/minecraft/client/renderer/model/UVTransformationUtil 1/1
   Patching net/minecraft/client/renderer/texture/AtlasTexture$SheetData 1/1
   Patching net/minecraft/client/audio/SoundHandler$Loader 1/1
   Patching net/minecraft/client/renderer/model/ItemOverrideList 1/1
@@ -29780,7 +29771,6 @@ Processing: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1
   Patching com/mojang/blaze3d/platform/GlStateManager$DepthState 1/1
   Patching net/minecraft/client/multiplayer/ServerData 1/1
   Patching net/minecraft/client/world/ClientWorld$1 1/1
-  Patching net/minecraft/client/audio/ISound 1/1
   Patching net/minecraft/client/renderer/model/BlockModel$Deserializer 1/1
   Patching net/minecraft/client/renderer/entity/ItemFrameRenderer 1/1
   Patching net/minecraft/client/renderer/BlockModelShapes 1/1
@@ -29854,6 +29844,6 @@ Processing: /workspaces/23/servidor_minecraft/./libraries/net/minecraft/server/1
   Patching net/minecraft/client/multiplayer/ServerData$ServerResourceMode 1/1
   Patching net/minecraft/client/renderer/entity/ItemRenderer 1/1
   Patching net/minecraft/client/gui/screen/CreateWorldScreen$GameMode 1/1
-  Output: /workspaces/23/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-server.jar Checksum Validated: 6e1d27a1fb979eaa48a0102412df696f56690510
+  Output: /workspaces/Minecraft/servidor_minecraft/./libraries/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-server.jar Checksum Validated: ab260c1be66cb313567baa3dc9f68acde5112d00
 The server installed successfully
 You can delete this installer file now if you wish
