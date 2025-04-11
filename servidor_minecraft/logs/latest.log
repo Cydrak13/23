@@ -317,3 +317,6 @@ java.lang.NullPointerException: null
 [11Apr2025 01:24:39.221] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fe3e143
 [11Apr2025 01:24:39.276] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cIDRAK[/127.172.218.39:37461] logged in with entity id 532 at (-926.3855594803343, 64.0, 1094.7791579865127)
 [11Apr2025 01:24:39.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK joined the game
+[11Apr2025 02:33:41.226] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cIDRAK lost connection: Timed out
+[11Apr2025 02:33:41.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cIDRAK left the game
+[11Apr2025 02:33:41.290] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
